@@ -15,5 +15,4 @@ ETAPE 4
 -créer un nouveau fichier ou enregistrer les informations
 
 ETAPE 5 
--...
-
+-Liberer les espaces dédiés (allocation)
